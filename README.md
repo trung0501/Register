@@ -24,5 +24,25 @@
 
    3. Conversely, when the user presses the "Login" button, the active class is removed, and the interface returns to the login state.
 
+✅ Advantages:
 
+   1. Modern, friendly and professional interface.
+
+   2. Smooth effect, convert form without loading page.
+
+   3. Responsive design, compatible with many screen sizes.
+
+   4. UX/UI optimization: intuitive icon, easy -to -see color, easy -to -use form.
+
+   5. Integrated social network login (Google, Facebook, GitHub, LinkedIn icon).
+
+   6. Separation between HTML, CSS and JS, easy to maintain.
+
+❌ Limit:
+
+   1. There is no connection to the backend system or database, so it is not yet possible to log in/register.
+
+   2. No advanced valid test for the form (advanced validation) such as checking the strength of passwords, checking the overlapping email, ...
+
+   3. Do not handle errors or notify the user when filling out wrong.
     
