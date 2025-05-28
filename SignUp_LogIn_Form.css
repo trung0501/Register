@@ -137,7 +137,6 @@ form{ width: 100%; }
         width: 300%;
         height: 100%;
         background: #6AB187;
-        /* border: 2px solid red; */
         border-radius: 150px;
         z-index: 2;
         transition: 1.8s ease-in-out;
@@ -149,7 +148,6 @@ form{ width: 100%; }
     position: absolute;
     width: 50%;
     height: 100%;
-    /* background: seagreen; */
     color: #fff;
     display: flex;
     flex-direction: column;
